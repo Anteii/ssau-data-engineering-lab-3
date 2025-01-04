@@ -1,6 +1,6 @@
 # Data Engineering. Practice #3. 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Anteii/ssau-data-engineering-lab-3/blob/main/README.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/Anteii/ssau-data-engineering-lab-3/blob/main/README.ru-ru.md)
+[![pt-br](https://img.shields.io/badge/lang-ru--ru-green.svg)](https://github.com/Anteii/ssau-data-engineering-lab-3/blob/main/README.ru-ru.md)
 
 
 # Training pipeline
